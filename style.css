@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.cabecalho {
+background-color: #03498f;
+color: white;
+display: flex;
+justify-content: space-around;
+}
+.cabecalho-imagem{
+width: 20%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+margin: 0 16px;
+justify-content: space-around;
+padding: 24px 0;
+font-size: 30px;
+}
+
+.escola-imagem {
+width: 15%;
+
+}
+
+.escola {
+background-color: #03498f;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-conteudo {
+width: 45%;
+
+}
+.escola-titulo {
+padding: 24px 0;
+
+}
+body {
+font-family: 'Poppins', sans-serif;
+
+}
+.estudante-imagem{
+width: 180px;
+
+}
+
+.estudante-icone{
+    width:40px;
+}
+
+.estudante-div {
+    text-align: center;
+}
+
+.estudante-titulo {
+    text-align: center;
+}
+
+.estudante-imagem2{
+width: 150px;
+
+}
+
+.estudante-icone2{
+    width:40px;
+}
+
+.estudante-div2 {
+    text-align: center;
+}
+
+.estudante-titulo2 {
+    text-align: center;
+}
+
+.estudante-imagem3{
+    width: 250px;
+    
+    }
+    
+    .estudante-icone3{
+        width:40px;
+    }
+    
+    .estudante-div3 {
+        text-align: center;
+    }
+    
+    .estudante-titulo3 {
+        text-align: center;
+    }
+
+    .estudante-imagem4{
+        width: 250px;
+        
+        }
+        
+        .estudante-icone4{
+            width:40px;
+        }
+        
+        .estudante-div4 {
+            text-align: center;
+        }
+        
+        .estudante-titulo4 {
+            text-align: center;
+        }
+    
+
+
